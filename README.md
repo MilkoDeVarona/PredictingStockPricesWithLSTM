@@ -1,1 +1,1 @@
-Created with Long Short-Term Neural network
+Created with Long Short-Term Neural Network
