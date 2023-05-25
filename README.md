@@ -1,4 +1,4 @@
-Created with Long Short-Term Neural Network model
+Implentation of a stock price predictor algorithm in python with Long Short-Term Neural Network model
 
 Stock trading refers to the act of buying and selling stocks in a free-market stock exchange. Unlike investing, which is a long-term strategy used to maximize return on investment, trading is a short-term strategy used to produce faster profits. Trading is extremely risky, difficult, and competitive, and while it can generate considerable returns it can also bring about sizeable losses.
 
