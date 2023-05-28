@@ -4,6 +4,7 @@ The following Python libraries were used in the creation of the model:
 
 Pandas, Numpy, Seaborn, yfinance, Matplotlib, Sklearn, Keras, Datetime.
 
+
 Stock trading refers to the act of buying and selling stocks in a free-market stock exchange. Unlike investing, which is a long-term strategy used to maximize return on investment, trading is a short-term strategy used to produce faster profits. Trading is extremely risky, difficult, and competitive, and while it can generate considerable returns it can also bring about sizeable losses.
 
 This proposal describes the implementation of a machine learning (ML) algorithm to assist a trading company in making automatic, human-free, trading decisions with the purpose of increasing profitability.
